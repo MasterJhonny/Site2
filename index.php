@@ -112,7 +112,7 @@ $indexDir = dirname(__FILE__);
 ?>
 <section class="u-backlink u-clearfix u-grey-80">
             <a class="u-link" href="https://nicepage.com/joomla-templates" target="_blank">
-        <span>Joomla Template</span>
+        <span>Joomla Template Com</span>
             </a>
         <p class="u-text"><span>created with</span></p>
         <a class="u-link" href="https://nicepage.com/joomla-page-builder" target="_blank"><span>Joomla Page Builder</span></a>.
